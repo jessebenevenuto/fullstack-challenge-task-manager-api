@@ -21,29 +21,29 @@ $ npm install
 ## Configuração o ambiente
 
 Crie um arquivo `.env` na raiz com as variáveis:
-   ```
-   DATABASE_URL="postgresql://postgres:postgres@localhost:5432/gerenciadortarefas?schema=public"
-   JWT_SECRET="sua_chave_secreta"
-   PORT=3333
-   ```
+ ```
+ DATABASE_URL="postgresql://postgres:postgres@localhost:5432/gerenciadortarefas?schema=public"
+ JWT_SECRET="sua_chave_secreta"
+ PORT=3333
+ ```
 
 ## Inicialize o banco de dados (Docker)
 
- ```bash
-   docker-compose up -d ou docker compose up -d
-   ```
+```bash
+ docker-compose up -d ou docker compose up -d
+ ```
 
 ## Execute as migrations
 
- ```bash
-   npx prisma migrate deploy
-   ```
+```bash
+ npx prisma migrate deploy
+ ```
 
 ## Inicialize o servidor
 
 ```bash
-   npm run dev
-   ```
+ npm run dev
+ ```
 
 ## Test
 
