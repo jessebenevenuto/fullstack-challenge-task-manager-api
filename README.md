@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/preview.png" width="200" alt="Nest Logo" />
+  <img src=".github/preview.png" width="200" alt="API Task Manager" />
 </p>
 
 <p align="center">
@@ -30,25 +30,25 @@ Crie um arquivo `.env` na raiz com as variáveis:
 ## Inicialize o banco de dados (Docker)
 
 ```bash
- docker-compose up -d ou docker compose up -d
- ```
+$ docker-compose up -d ou docker compose up -d
+```
 
 ## Execute as migrations
 
 ```bash
- npx prisma migrate deploy
- ```
+$ npx prisma migrate deploy
+```
 
 ## Inicialize o servidor
 
 ```bash
- npm run dev
- ```
+$ npm run dev
+```
 
 ## Test
 
 ```bash
-npm run test:dev
+$ npm run test:dev
 ```
 
 ## 📝 Licença
