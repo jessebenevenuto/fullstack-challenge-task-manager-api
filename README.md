@@ -1,7 +1,11 @@
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=F7B733&labelColor=000000" alt="PRs welcome!" />
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+</p>
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=F7B733&labelColor=000000">
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=5DC147&labelColor=000000" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=5DC147&labelColor=000000">
 </p>
 
 ## Descrição
@@ -47,6 +51,20 @@ Crie um arquivo `.env` na raiz com as variáveis:
 npm run test:dev
 ```
 
-## License
+## 📝 Licença
 
-[MIT licensed](LICENSE).
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+
+---
+
+Feito com 💜 by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
+<!--START_SECTION:footer-->
+
+<br />
+<br />
+
+<p align="center">
+  <a href="https://discord.gg/rocketseat" target="_blank">
+    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
+  </a>
